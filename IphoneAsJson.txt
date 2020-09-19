@@ -1,0 +1,1 @@
+{"releaseDate":"10.08.2019","name":"Iphone11","color":"red,white,green,yellow,red,black,purple","SIMcount":2,"processor":"A13 Bionic","firstMobile":"Iphone 1","manufacturerCountry":"Cupertino, USA","price":"800 EUR","weightInGrams":"194 gram","OS":"IOS 13","backCameraCount":2,"frontCameraCount":1,"RAM":"4 GB"}
